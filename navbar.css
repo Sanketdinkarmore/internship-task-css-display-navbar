@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+  background-color: rgb(49, 49, 189);
+  height:40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  justify-content: space-around;
+  
+}
+.start{
+  padding-left: 20px;
+}
+a{
+  color: azure;
+}
+a:hover{
+  color:yellow;
+}
+li{
+  display: inline;
+padding-left:10px ;
+}
+
+
+
